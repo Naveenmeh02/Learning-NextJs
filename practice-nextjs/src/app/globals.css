@@ -17,6 +17,10 @@
 }
 
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
